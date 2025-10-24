@@ -1,13 +1,12 @@
-# ⚡ My V0 Project
+# ⚡ Resume Builder — by Vansh
 
-Welcome to My V0 Project — a shiny Next.js + Tailwind UI starter with Radix + Sonner and lots of reusable components 🎨✨
+Welcome to Resume Builder — a modern, customizable resume/CV builder built with Next.js, Tailwind CSS, and a collection of well-crafted UI components. Create beautiful resumes quickly, switch themes, preview templates live, and export to PDF — all with developer-friendly components and sensible defaults. 🎯📝
 
-A minimal description:
-- Next.js 16 + React 19
-- Tailwind CSS for styling
-- Radix UI primitives for accessible components
-- next-themes for dark/light theme support
-- Sonner for toast notifications
+Project description
+A short overview of what this project does and why it exists:
+- Purpose: Help users create professional resumes quickly using editable sections and templates.
+- Core features: form-driven resume editor, multiple templates, live preview, theme (light/dark) support, and PDF export for easy sharing.
+- Built for: developers, designers, and anyone who wants a clean, customizable resume without wrestling with layout tools.
 
 Quick links
 - Components live in `components/ui` (lots of ready-to-use pieces)
@@ -69,5 +68,8 @@ Notes & tips 💡
 
 Contributing 🤝
 Contributions, suggestions, and bug reports are welcome. Open a PR or issue and add a clear description of your change.
+
+Author ✍️
+- Vansh — happy to collaborate and iterate on templates, features, and UX.
 
 Have fun building! 🎉
