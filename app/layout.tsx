@@ -11,8 +11,8 @@ const _sourceSerif_4 = V0_Font_Source_Serif_4({ subsets: ['latin'], weight: ["20
 
 export const metadata: Metadata = {
   title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: 'Built by Vansh',
+  generator: 'Vansh',
 }
 
 export default function RootLayout({
